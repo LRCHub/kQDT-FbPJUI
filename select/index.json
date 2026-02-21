@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "タナトフォビア / キタニタツヤ – Thanatophobia / Tatsuya Kitani",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-21T22:48:47.493201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タナトフォビア",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_タナトフォビア_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タナトフォビア",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_タナトフォビア_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タナトフォビア",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_タナトフォビア_キタニタツヤ.txt"
+    }
+  ]
+}
